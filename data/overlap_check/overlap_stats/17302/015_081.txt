@@ -1,0 +1,5 @@
+input1	Level2/17302/17302_015_WanW_LijLiu_07202018.ano.eswc
+intput2	Level2/17302/17302_081_LiuAn_LijLiu_05302018.ano.swc
+Total_length(input1)	22385
+Total_length(input2)	12031
+Total_length(overlap)	0
